@@ -1,0 +1,22 @@
+.bg-danger {
+    background-color: black !important;
+}
+
+
+ul.a {
+    list-style-type: circle;
+}
+
+a {
+	color:black;
+	border-color: blue;
+}
+
+h6{
+	margin-bottom:0px;
+	font-weight:100;
+}
+
+h2{
+	background-color:yellow;
+}
