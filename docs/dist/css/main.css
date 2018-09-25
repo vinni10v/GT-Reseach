@@ -2,7 +2,6 @@
     background-color: black !important;
 }
 
-
 ul.a {
     list-style-type: circle;
 }
@@ -10,6 +9,7 @@ ul.a {
 a {
 	color:black;
 	border-color: blue;
+	padding-bottom: 0px;
 }
 
 h6{
@@ -21,3 +21,107 @@ h2{
 	background-color:grey;
 	color:white;
 }
+
+.navbar{
+	padding:0px;
+}
+
+.container h1{
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*<div id="quick-start">
+              <h2>Affiliations</h2>
+              <br><br>
+
+              <ul class="a">
+                <li><a href="https://www.cc.gatech.edu/">School of Computer Science, College of Computing, Georgia Tech</a></li>
+                <li><a href="http://www.cercs.gatech.edu/">Center for Experimental Research in Computer Systems - CERCS</a></li>
+                <li><a href="http://www.istc-cc.cmu.edu/index.shtml">Intel Science and Technology Center for Cloud Computing - ISTC-CC</a></li>
+                <li><a href="http://www.istc-ec.org/">Intel Science and Technology Center in Embedded Computing - ISTC-EC</a></li>
+              </ul>
+
+        
+              <hr class="my-5" />
+            </div><!-- /#quick-start -->
+
+            <div id="build-tools">
+              <h2>Events</h2>
+              <br><br>
+              <ul class="a">
+                <li><h6><a href="https://www.usenix.org/conference/hotcloud15">HotCloud'15,</a> July, 2015</h6></li>
+                
+                <li><h6><a href="http://www.cercs.gatech.edu/vee15/">11th ACM SIGPLAN/SIGOPS International Conference Virtual Execution Environment (VEE'15),</a> colocated with ASPLOS'15, Istanbul, Turkey, Mar. 2015 (General Chair)</h6></li>
+                
+                <li><h6><a href="http://sc14.supercomputing.org/"> Supercomputing'14 (SC14),</a> New Orleans, LA, Nov. 2014 (Co-Chair, Systems Software track)</h6></li>
+                
+                <li><h6><a href="http://datasys.cs.itt.edu/events/CCGrid2014/">IEEE/ACM Int'l Symposium on Cluster, Cloud and Grid Computing,</a> Chicago, IL, May 2014 (PC member)</h6></li>
+              
+                <li><h6><a href="http://www.cs.utah.edu/asplos14">Eighteenth International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2014),</a> Salt Lake City, UT, Mar. 2014 (PC member)</h6></li>
+                
+                <li><h6><a href="http://sc13.supercomputing.org/">Supercomputing'13 (SC13),</a> Denver, CO, Nov. 2013 (PC memeber, Systems Software track)</h6></li>
+
+                <li><h6><a href="http://hoti.org/">IEEE Hot Interconnects,</a> San Jose, CA, Aug. 2013 (Organizing Committee)</h6></li>
+
+                <li><h6><a href="http://labs.vmware.com/vee2013/">9th International Conference on Virtual Execution Environments (VEE),</a> Houston, TX, Mar. 2013 (PC member)</h6></li>
+
+                <li><h6><a href="http://asplos13.rice.edu/">Eighteenth International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2013),</a> Houston, TX, Mar. 2013 (PC member)</h6></li>
+
+                <li><h6><a href="https://www.cc.gatech.edu/home/ada/past_events.html">Past Events</a></h6></li>
+                
+
+                </ul>
+
+        
+              <hr class="my-5" />
+            </div>
+
+
+<div id="Teaching">
+              <h2>Teaching:</h2>
+              <p><b>Current:</b></p>
+              <ul class="a">
+                <li><b>CS4210/CS6210 Advanced Operating Systems</b></li>
+                <li><b>CS6200 Graduate Intro to Operating Systems -- </b>in CS Online MS program</li>
+                </ul>
+                
+                <p><b>Past:</b></p>
+                
+                <ul class="a">
+                <li><b>CS8803-ECI Edge Computing and IoT</b>: Fall'17</li>
+                <li><b>CS6210 Advanced Operating Systems:</b> Spring'17, Fall'14, Spring 2011, Fall 2010 (@Korea University), Fall 2008, Fall 2007</li>
+                <li><b>CS6200 Graduate Introduction to Operating Systems:</b> Spring'15 - present (in OMS program), Fall 2012, Fall 2011, Fall 2009, Spring 2009, Fall 2008 (used to be CS8803-GOS)</li>
+                <li><b>CS4210 Advanced Operating Systems:</b> Spring 2009, Fall 2008, Spring 2008, Fall 2006, Summer 2006, Spring 2006, Summer 2005, Summer 2004</li>
+                <li><b>CS4803/8803HPC High Performance Communication:</b> Spring 2008, Fall 2006, Spring 2005</li>
+                <li><b>CS8803 High Performance Communication --</b> Korea Embedded Computing MS Program: Summer 2007 (@Korea University)</li>
+                <li><b>CS3300 Introduction to Software Engineering:</b> Fall 2005</li>
+                <li><b>CS4240 Compilers and Interpreters:</b> Fall 2004</li>
+                </ul>
+
+              <hr class="my-5" />
+            </div><!-- /#basic-template -->
+
+
+
+
+
+
+
+
+
+
+*/
+
+
+
