@@ -8,7 +8,7 @@ ul.a {
 
 a {
 	color:black;
-	border-color: blue;
+	border-color: #909094;
 	padding-bottom: 0px;
 }
 
@@ -31,6 +31,32 @@ h2{
 	color: white;
 }
 
+.profile-container h5{
+  font-size: 20px;
+  text-align: center;
+  color: red;
+  padding-top: 10px;
+}
+
+.profile-container h6{
+  font-size: 15px;
+  text-align: center;
+  color: black;
+  padding-bottom: 10px
+}
+
+
+img.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height:170px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 5px rgba(0, 140, 186, 0.5);
+}
 
 
 
